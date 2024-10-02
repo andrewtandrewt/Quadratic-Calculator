@@ -1,3 +1,3 @@
 # Quadratic-Calculator
 Interactive web application to algebraically solve quadratic equations
-![QuadraticCalc_Test-GIF](https://github.com/user-attachments/assets/5c1c9e45-329f-4c45-b4f6-860cc637074b)
+![projectVid](https://github.com/user-attachments/assets/75dbd9c1-c4f2-45ff-9d04-a1661b687768)
